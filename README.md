@@ -1,4 +1,8 @@
 # TEXT_TO_SPEACH
+git add requirements.txt
+git commit -m "Add gtts to requirements.txt"
+git push origin main
+
  ## ext-to-Speech Generation
 - This project implements a Text-to-Speech (TTS) generation model that converts textual input into natural-sounding speech. 
 - The model leverages deep learning techniques to generate realistic audio outputs based on the given text.
